@@ -14,7 +14,7 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 4. Define a function for sigmoid, loss, gradient and predict and perform operations. 
 
 ## Program:
-
+```
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by: Sri hari R
@@ -91,7 +91,7 @@ print(Y)
 xnew=np.array([[0,87,0,95,0,2,78,2,0,0,1,0]])
 y_prednew=predict(theta,xnew)
 print(y_prednew)
-
+```
 
 ## Output:
 ### Read the file and display
